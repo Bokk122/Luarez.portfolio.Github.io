@@ -2,9 +2,9 @@
 ## 🎓 課程資訊
 - 學號：22101124
 - 姓名：鄭洛斯
-- 班級：資管大一
-- 作品網址：https://username.github.io/portfolio
-- GitHub Repo：https://github.com/username/portfolio
+- 班級：資管大四
+- 作品網址：https://Bokk122.github.io/Luarez.portfolio.Github.io
+- GitHub Repo：https://github.com/Bokk122/Luarez.portfolio.Github.io
 
 ## 📌 專題說明
 本作品集網站以「個人技術展示」為主題，呈現我在樹德科技大學資訊管理學系就讀期間所開發的專案成果。網站採單頁設計，包含專案介紹、技能總覽與個人履歷三大區塊，並部署於 GitHub Pages 供公開瀏覽。特色包含響應式版面設計（支援手機與桌機）、Corporate AI 配色主題（深藍 + 青色）、以及每個專案直接連結至 Gemini 平台的即時展示按鈕。
